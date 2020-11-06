@@ -1,0 +1,42 @@
+.Banner{
+    background-image: url(../pictures/pattern.webp);
+    height: 120px;
+    margin-top: 50px;
+
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 55px;
+    color: khaki;
+    text-align: center;
+    padding-top: auto;
+    white-space: nowrap;
+}
+
+.item h2{
+    font-size: 36px;
+    font-weight: bold;
+    color: white;
+    margin-top: 60px;
+    padding: 15px 0px; 
+}
+#brush{
+    background-color: mediumspringgreen;
+}
+
+.price{
+    color: blue;
+    font-weight: 900;
+}
+
+h3, p{
+    font-family: Helvetica;
+}
+
+#frames{
+    background-color: lightcoral; 
+}
+
+#paint{
+    background-color: skyblue;
+}
+
